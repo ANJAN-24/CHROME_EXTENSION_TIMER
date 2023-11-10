@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Timer Triumph",
+    "version": "1.0",
+    "description": "Elevate your productivity! Set a timer, and receive a notification when your selected time has concluded.",
+    "permissions": [
+      "activeTab",
+      "notifications"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "itachi.png"
+    }
+  }
+  
